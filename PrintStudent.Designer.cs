@@ -1,5 +1,4 @@
 
-
 namespace Transparent_Form
 {
     partial class PrintStudent
@@ -309,3 +308,4 @@ namespace Transparent_Form
     }
 
 }
+
