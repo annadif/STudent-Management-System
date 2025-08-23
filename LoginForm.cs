@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 
+
 namespace Transparent_Form
 {
     public partial class LoginForm : Form
@@ -73,6 +74,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
