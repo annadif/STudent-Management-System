@@ -1,4 +1,5 @@
-﻿
+
+
 namespace Transparent_Form
 {
     partial class PrintStudent
@@ -306,4 +307,5 @@ namespace Transparent_Form
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button_search;
     }
+
 }
