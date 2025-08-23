@@ -1,5 +1,4 @@
 
-
 namespace Transparent_Form
 {
     partial class CourseForm
@@ -294,4 +293,5 @@ namespace Transparent_Form
         private System.Windows.Forms.Panel panel1;
     }
 }
+
 
