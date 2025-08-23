@@ -3,7 +3,6 @@ namespace Transparent_Form
 {
     partial class MainForm
     {
-        
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -705,4 +704,5 @@ namespace Transparent_Form
         private System.Windows.Forms.Button button_exit;
     }
 }
+
 
