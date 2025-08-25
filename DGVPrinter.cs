@@ -13,6 +13,7 @@ using System.IO;
 using System.Diagnostics;
 
 
+
 //[module:CLSCompliant(true)]
 namespace DGVPrinterHelper //AllocationRequest
 {
@@ -3878,4 +3879,5 @@ namespace DGVPrinterHelper //AllocationRequest
             g.DrawImage(img, rectf, src, GraphicsUnit.Pixel);
         }
     }
+
 }
