@@ -32,6 +32,7 @@ namespace Transparent_Form
             }
         }
 
+        
         //create a function to get course list
         public DataTable getCourse(MySqlCommand command)
         {
@@ -83,6 +84,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
