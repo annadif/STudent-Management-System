@@ -1,5 +1,4 @@
-﻿
-namespace Transparent_Form
+﻿namespace Transparent_Form
 {
     partial class LoginForm
     {
@@ -225,3 +224,4 @@ namespace Transparent_Form
         private System.Windows.Forms.Label label6;
     }
 }
+
