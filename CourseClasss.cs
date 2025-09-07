@@ -13,6 +13,7 @@ namespace Transparent_Form
     {
         DBconnect connect = new DBconnect();
         //create a function to insert course
+        // for starting section
         public bool insetCourse(string cName, int hr, string desc)
         {
             MySqlCommand command = new MySqlCommand("INSERT INTO `course`(`CourseName`, `CourseHour`, `Description`) VALUES (@cn,@ch,@desc)", connect.getconnection);
@@ -84,6 +85,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
