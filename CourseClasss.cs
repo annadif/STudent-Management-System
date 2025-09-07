@@ -45,6 +45,7 @@ namespace Transparent_Form
         }
 
         //create a update function for course edit
+        // also for this task
         public bool updateCourse(int id, string cName, int hr, string desc)
         {
             MySqlCommand command = new MySqlCommand("UPDATE `course` SET`CourseName`=@cn,`CourseHour`=@ch,`Description`=@desc WHERE  `CourseId`=@id", connect.getconnection);
@@ -85,6 +86,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
