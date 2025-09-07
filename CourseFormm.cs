@@ -61,10 +61,12 @@ namespace Transparent_Form
         private void showData()
         {
             //to show course list on datagridview
+            // and select an item from 
             DataGridView_course.DataSource = course.getCourse(new MySqlCommand("SELECT * FROM `course`"));
         }
     }
 }
+
 
 
 
