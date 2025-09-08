@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// using is 
+
 namespace Transparent_Form
 {
     public partial class ManageScoreForm : Form
@@ -108,3 +110,4 @@ namespace Transparent_Form
         }
     }
 }
+
