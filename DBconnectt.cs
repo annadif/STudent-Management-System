@@ -12,6 +12,7 @@ namespace Transparent_Form
      * we need to install xampp and mysql connector to this project
      * we need to create the student database
      */
+    // if the database is not connected then check the server side 
 
     class DBconnect
     {
@@ -42,5 +43,6 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
