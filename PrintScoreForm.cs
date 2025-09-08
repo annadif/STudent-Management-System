@@ -30,6 +30,7 @@ namespace Transparent_Form
         private void button_print_Click(object sender, EventArgs e)
         {
             //We need DGVprinter helper for print pdf file
+            // saved autmatically localy in the storage
             printer.Title = "Mdemy Student score list";
             printer.SubTitle = string.Format("Date: {0}", DateTime.Now.Date);
             printer.SubTitleFormatFlags = StringFormatFlags.LineLimit | StringFormatFlags.NoClip;
@@ -54,3 +55,4 @@ namespace Transparent_Form
         }
     }
 }
+
