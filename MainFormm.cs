@@ -9,6 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+// main form that connect all other pages together
+
 namespace Transparent_Form
 {
     public partial class MainForm : Form
@@ -224,6 +227,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
