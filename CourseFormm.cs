@@ -11,6 +11,7 @@ using MySql.Data.MySqlClient;
 using Sysstem.this.get
 
     
+    
 namespace Transparent_Form
 {
     public partial class CourseForm : Form
@@ -68,6 +69,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
