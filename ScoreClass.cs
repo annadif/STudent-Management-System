@@ -6,6 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// co
+
 namespace Transparent_Form
 {
     class ScoreClass
@@ -94,5 +96,6 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
