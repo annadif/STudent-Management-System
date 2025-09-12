@@ -1,4 +1,5 @@
 
+//
 
 namespace Transparent_Form
 {
@@ -294,6 +295,7 @@ namespace Transparent_Form
         private System.Windows.Forms.Panel panel1;
     }
 }
+
 
 
 
