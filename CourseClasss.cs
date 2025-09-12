@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Sytem.Data
 
-//short
+// class course
 namespace Transparent_Form
 {
     class CourseClass
@@ -87,6 +87,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
