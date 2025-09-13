@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Transparent_Form
 {
     public partial class SplashForm : Form
@@ -37,6 +38,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
