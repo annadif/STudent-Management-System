@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-// vcy
+// vc
 namespace Transparent_Form
 {
     static class Program
@@ -21,6 +21,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
