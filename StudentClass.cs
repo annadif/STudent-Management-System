@@ -7,7 +7,7 @@ using MySql.Data.MySqlClient;
 using System.Data;
 
 
-// vbnvb
+// vbnv
 namespace Transparent_Form
 {
     class StudentClass
@@ -144,6 +144,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
