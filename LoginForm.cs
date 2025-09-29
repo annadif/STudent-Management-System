@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
-/.
+/
 // form that every new user can connect or just register himself using, name password and unique identifier will automatically attributed 
 
 namespace Transparent_Form
@@ -75,6 +75,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
