@@ -11,7 +11,7 @@ using System.IO;
 using MySql.Data.MySqlClient;
 
 
-// ks
+// k
 
 namespace Transparent_Form
 {
@@ -122,6 +122,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
