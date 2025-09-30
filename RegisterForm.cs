@@ -10,7 +10,6 @@ using System.Windows.Forms;
 using System.IO;
 using MySql.Data.MySqlClient;
 
-
 namespace Transparent_Form
 {
     public partial class RegisterForm : Form
@@ -120,6 +119,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
