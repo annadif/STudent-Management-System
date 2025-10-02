@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Sytem.Data
+using System.Database.db
+
 
 namespace Transparent_Form
 {
@@ -86,6 +88,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
