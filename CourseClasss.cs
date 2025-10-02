@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Sytem.Data
-using Sys
+using Sy
 
 
 namespace Transparent_Form
@@ -88,6 +88,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
