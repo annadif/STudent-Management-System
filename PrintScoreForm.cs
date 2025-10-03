@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 using DGVPrinterHelper;
 
-/./.nbcncgn 
+/./.nbcncg
 namespace Transparent_Form
 {
     public partial class PrintScoreForm : Form
@@ -55,5 +55,6 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
