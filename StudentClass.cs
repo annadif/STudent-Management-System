@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 
-/./.mnmnx
+/./.mnmn
 namespace Transparent_Form
 {
     class StudentClass
@@ -143,6 +143,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
