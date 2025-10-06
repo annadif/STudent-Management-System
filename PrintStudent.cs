@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 using DGVPrinterHelper;
 
+
+/./.nmbzxcsmn
 namespace Transparent_Form
 {
     public partial class PrintStudent : Form
@@ -74,3 +76,4 @@ namespace Transparent_Form
         }
     }
 }
+
