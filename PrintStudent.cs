@@ -11,7 +11,6 @@ using MySql.Data.MySqlClient;
 using DGVPrinterHelper;
 
 
-
 namespace Transparent_Form
 {
     public partial class PrintStudent : Form
@@ -76,6 +75,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
