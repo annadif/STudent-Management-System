@@ -1,4 +1,5 @@
-﻿
+
+///mnbjeh ashebdfa
 namespace Transparent_Form
 {
     partial class ManageScoreForm
@@ -367,4 +368,5 @@ namespace Transparent_Form
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
     }
+
 }
