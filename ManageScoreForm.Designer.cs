@@ -1,5 +1,5 @@
 
-///mnbjeh ashebd
+///mnbjeh asheb
 namespace Transparent_Form
 {
     partial class ManageScoreForm
@@ -370,5 +370,6 @@ namespace Transparent_Form
     }
 
 }
+
 
 
