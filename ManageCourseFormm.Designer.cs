@@ -1,4 +1,4 @@
-/
+
 
 namespace Transparent_Form
 {
@@ -369,6 +369,7 @@ namespace Transparent_Form
         private System.Windows.Forms.TextBox textBox_search;
     }
 }
+
 
 
 
