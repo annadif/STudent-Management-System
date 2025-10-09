@@ -1,4 +1,5 @@
-﻿
+///,nmn,n,kn,k
+
 namespace Transparent_Form
 {
     partial class ManageCourseForm
@@ -368,3 +369,4 @@ namespace Transparent_Form
         private System.Windows.Forms.TextBox textBox_search;
     }
 }
+
