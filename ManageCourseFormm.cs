@@ -9,7 +9,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
 // it is for course management. update and add details 
 
 namespace Transparent_Form
@@ -113,6 +112,7 @@ namespace Transparent_Form
         }
     }
 }
+
 
 
 
