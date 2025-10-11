@@ -1,5 +1,5 @@
 
-//mnmnwjndsjwa
+//mnmnwjndsjw
 namespace Transparent_Form
 {
     partial class ManageStudentForm
@@ -505,4 +505,5 @@ namespace Transparent_Form
         private System.Windows.Forms.TextBox textBox_search;
     }
 }
+
 
